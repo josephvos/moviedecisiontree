@@ -1,0 +1,8 @@
+Movie Recommendation Propositional Logic Text Bot
+by Joey Vos: 811-295-117
+
+To run the program, simply execute: python main.py
+
+After launching, respond to each question by typing your answers exactly as prompted. Correct spelling is required for the program to proceed through the decision steps.
+
+The program will conclude by presenting you with a movie recommendation along with the propositional logic reasoning used to generate it.
